@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kixi Architectual Decisions
+title: Kixi Architectural Decisions
 date: 2016-12-22 11:00
 author: tcoupland
 comments: true
