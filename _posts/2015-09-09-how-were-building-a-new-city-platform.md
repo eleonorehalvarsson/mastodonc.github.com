@@ -6,7 +6,7 @@ author: chrisa
 comments: true
 categories: [Uncategorized]
 ---
-As we mentioned <a href="http://blog.mastodonc.com/2015/08/19/witan-the-flexible-city-modelling-platform/">earlier</a> on the blog, we’re working on a very big and ambitious project to create a new city modelling platform, Witan, with London as the first test bed.
+As we mentioned <a href="/uncategorized/2015/08/19/witan-the-flexible-city-modelling-platform.html">earlier</a> on the blog, we’re working on a very big and ambitious project to create a new city modelling platform, Witan, with London as the first test bed.
 <!--more-->
 
 Since there is so much that could be done in this field, and so many possible ways to do it, there are some tough choices for us to make, to ensure that the platform works and is widely adopted, both in London and in other world cities.
