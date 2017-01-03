@@ -2,7 +2,7 @@
 layout: post
 title: Creating an Onyx and Kafka Application pt 1
 date: 2016-10-08 12:00
-author: jasebell
+author: jason
 comments: true
 categories: [onyx, kafka]
 ---

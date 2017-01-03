@@ -2,7 +2,7 @@
 layout: post
 title: Text Mining Defra
 date: 2016-08-03 12:00
-author: fhr
+author: fran
 comments: true
 categories: [data science, text mining, geeky,cows]
 ---
