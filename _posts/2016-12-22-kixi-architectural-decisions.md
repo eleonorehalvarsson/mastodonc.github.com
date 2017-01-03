@@ -2,7 +2,7 @@
 layout: post
 title: Kixi Architectural Decisions
 date: 2016-12-22 11:00
-author: tcoupland
+author: tomc
 comments: true
 categories: [kixi, design, architecture]
 ---
