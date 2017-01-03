@@ -11,7 +11,7 @@ download: casestudy.pdf
 ## The scene
 Our client, A&NY Media, is part of dmg::media – a large consumer media organisation with an annual turnover of over £1 billion. They manage the advertising for a number of major web properties, and their analysts needed up to date, detailed data in order to manage that advertising effectively.
 <aside>
-  <p>The system contains 12 TB (over 106 billion datapoints in total) of compressed data stored</p>
+  <p>The system manages over 24 TB of data in AWS Redshift</p>
 </aside>
 We used our Kixi cloud-based system to create customised data processing pipelines, which bring together, scrub, and summarise over 10 billion datapoints from 18 different sources overnight each night.
 
@@ -27,9 +27,9 @@ This project embodied three key elements of our approach:
 ## By the numbers
 The system contains:
 
-  - 12 TB (over 106 billion datapoints in total) of compressed data stored
-  - Over 70 GB of data added daily from 18 sources via 5 different data vendors via various https web services and files via sftp
-  - Runs very efficiently: only one ETL server, and 8 database servers at peak times
+  - over 24 TB managed in AWS Redshift
+  - Over 170 GB of data added daily from over 45 sources via 8 data vendors via various https web services and files via sftp
+  - Runs very efficiently: only one ETL server, with on demand spark clusters to do larger pieces of analysis.
 
 ## Ongoing support
 Having built the original system, we also operate the system day to day, including:
