@@ -2,7 +2,7 @@
 layout: post
 title: Designing Real Time Data Applications - Talk at the Detail Data Conference
 date: 2017-01-09 10:00
-author: jase
+author: jason
 comments: true
 categories: [data, design, realtime]
 ---
