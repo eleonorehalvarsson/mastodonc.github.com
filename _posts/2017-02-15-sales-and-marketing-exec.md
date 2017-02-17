@@ -12,7 +12,8 @@ sales, business development, and client relationship activities of the
 company. They will work  primarily with the CEO, who is a recognised
 leader in data science and big data technology, which will provide
 great opportunities to learn about and become part of the UK
-technology startup community.
+technology startup community. This role is fixed term for 1 year, with
+a possibility of extending if sales go well.
 <!--more-->
 
 ## Responsibilities will include:
