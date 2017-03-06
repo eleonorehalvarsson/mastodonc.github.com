@@ -26,15 +26,6 @@ eleonore:
     profile: |
       Éléonore is an Hackbright Academy alumna with a background in biomedical research.<p>
       She is a co-organiser at PyLadies London and enjoys hacking on hardware.
-elisabeth:
-    name: Elisabeth Weise
-    position: Delivery manager
-    email:
-    twitter:
-    image: elisabeth-bw.jpg
-    profile: |
-      Elisabeth enjoys commercialising brilliant tech ideas through agile processes.<p>
-      She loves Babybels and likes coffee and cycling in London.
 jason:
     name: Jason Bell
     position: Data Engineer
@@ -43,7 +34,7 @@ jason:
     image: jason-bw.jpg
     profile: |
       Jason is author of <i>Machine Learning: Hands On For Developers and Technical Professionals</i> and specialises in high volume data workflows and pipelines.<p>
-      He has played the Chapman Stick since 1993 and has played bass guitar for over thirty years, he also writes about technology, data and automating processes. 
+      He has played the Chapman Stick since 1993 and has played bass guitar for over thirty years, he also writes about technology, data and automating processes.
 elise:
     name: Elise Huard
     position: Data Engineer
@@ -98,6 +89,16 @@ tomc:
     profile: |
       Tom has spent years growing large data systems, carefully tending to both the flow and reservoirs of information, using a potent cocktail of deep technical knowledge, relentless inquisitiveness and sheer determination to make it work.<p>
       When not tending to the system of the day, he likes to read, watch and occasionally write science fiction, before going outside and running around the mountains in the wind and rain to let it all sink in.
+sam:
+    name: Samantha Softley
+    position: Delivery Manager
+    email:
+    twitter:
+    image: sam-bw.jpg
+    profile: |
+      Sam is our proactive polyfiller; she loves making things happen and is constantly anticipating where issues may pop up, and looking to put things in place so that the issues never come about.<p>
+      When not polyfilling Sam likes to be in the mountains preferably on her bike.
+
 chrish:
     name: Chris Hall
     position: Strategic Advisor
