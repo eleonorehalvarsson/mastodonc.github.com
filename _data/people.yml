@@ -98,7 +98,14 @@ sam:
     profile: |
       Sam is our proactive polyfiller; she loves making things happen and is constantly anticipating where issues may pop up, and looking to put things in place so that the issues never come about.<p>
       When not polyfilling Sam likes to be in the mountains preferably on her bike.
-
+matt:
+    name: Matt Ford
+    position: DevOps Engineer
+    email:
+    twitter:
+    image: matt-bw.png
+    profile: |
+      Matt automates all the things and lives by the mantra "infrastructure as code, infrastructure as code".<p>When his head is not buried in The Cloud he likes sci-fi, piano, and gaming.
 chrish:
     name: Chris Hall
     position: Strategic Advisor
