@@ -6,9 +6,12 @@ author: fran
 comments: true
 categories: [text mining, machine learning, business]
 ---
-"Art is a kind of mining," he said. "The artist a variety of prospector searching for the sparkling silver of meaning in the earth." ― **Jane Urquhart**, **The Underpainter**
 
 You may suspect that there are riches buried in the myriad of text and documents your organisation produces every day.  And you’re right.   The documents already inside your organisation can provide early warning of risk and compliance issues.  They’ll bring you new insights into what your customers really need.  They offer a detailed understanding of your business that will drive better decisions.
+
+<!--more-->
+
+"Art is a kind of mining," he said. "The artist a variety of prospector searching for the sparkling silver of meaning in the earth." ― **Jane Urquhart**, **The Underpainter**
 
 Even relatively small organisations generate large amounts of text every day.  This data is worth getting to grips with.  But that’s not an easy thing to do, given the sheer diversity and volume of documents created.  The trick to uncovering gems in your treasure trove of text is actually less of an art and more of a science, specifically the data science technique called text mining.  
 
@@ -16,9 +19,8 @@ Even a cursory understanding of the potential text mining might offer can help y
 
 This article looks first at what  text mining is, then at three potential ways that text mining could be used to create value for your business.
 
-<!--more-->
 
-## **What is text mining? **
+### **What is text mining? **
 
 **"Text mining, also referred to as text data mining, is the process of deriving high-quality information from text. High-quality information is typically derived through the devising of patterns and trends through means such as statistical pattern learning" Wikipedia.**
 
@@ -38,7 +40,7 @@ Others  terms commonly associated with text mining are:
 
 * **Sentiment Analysis** (an approach to finding subjective insights such as opinions, mood, and emotions)
 
-## **How can text mining create business insights?**
+### **How can text mining create business insights?**
 
 **There are a number of reasons business leaders should be interested in text mining.  IDC estimate that [less than 1% of data is ever analysed](https://www.technologyreview.com/s/514346/the-data-made-me-do-it/).  Text mining will help bridge the gap to the missing 99%.  Here are some ways that text mining could make an impact on your business.**
 
@@ -58,43 +60,7 @@ Analysts need data if they’re to provide a business with accurate insights.  T
 
 The key to getting a good outcome from text mining is, as for many business initiatives, clearly defining the problem you’re trying to solve, and building a business case.  We’ll be looking at ways to do that next week.  In the meantime please email us at [team@mastodonc.com](mailto:team@mastodonc.com) if you’d like to discuss this topic with us, and follow the story on twitter @mastodonc
 
-** **
 
-**<!-- Begin MailChimp Signup Form -->**
 
-**<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">**
 
-**<style type="text/css">**
-
-**	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }**
-
-**	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.**
-
-**	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */**
-
-**</style>**
-
-**<div id="mc_embed_signup">**
-
-**<form action="//mastodonc.us11.list-manage.com/subscribe/post?u=9ee9ea9ca9a09f61b57774a3b&amp;id=a6d1215218" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>**
-
-**    <div id="mc_embed_signup_scroll">**
-
-**	<label for="mce-EMAIL">Get the latest news and ideas from Mastodon C</label>**
-
-**	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>**
-
-**    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->**
-
-**    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9ee9ea9ca9a09f61b57774a3b_a6d1215218" tabindex="-1" value=""></div>**
-
-**    <div class="clear"><input type="submit" value="Subscribe now" name="subscribe" id="mc-embedded-subscribe" class="button"></div>**
-
-**    </div>**
-
-**</form>**
-
-**</div>**
-
-**<!--End mc_embed_signup-->**
 
