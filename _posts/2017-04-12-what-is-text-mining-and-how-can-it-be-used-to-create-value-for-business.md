@@ -20,9 +20,10 @@ Even a cursory understanding of the potential text mining might offer can help y
 This article looks first at what  text mining is, then at three potential ways that text mining could be used to create value for your business.
 
 
-### **What is text mining? **
+### What is text mining?
 
-**"Text mining, also referred to as text data mining, is the process of deriving high-quality information from text. High-quality information is typically derived through the devising of patterns and trends through means such as statistical pattern learning" Wikipedia.**
+
+"Text mining, also referred to as text data mining, is the process of deriving high-quality information from text. High-quality information is typically derived through the devising of patterns and trends through means such as statistical pattern learning" Wikipedia.
 
 This definition seems pretty clear.  But putting it into practice isn’t as straightforward.  The challenge with text, as opposed to more structured data sources like spreadsheets, is two-fold.  
 
@@ -40,11 +41,11 @@ Others  terms commonly associated with text mining are:
 
 * **Sentiment Analysis** (an approach to finding subjective insights such as opinions, mood, and emotions)
 
-### **How can text mining create business insights?**
+### How can text mining create business insights?
 
-**There are a number of reasons business leaders should be interested in text mining.  IDC estimate that [less than 1% of data is ever analysed](https://www.technologyreview.com/s/514346/the-data-made-me-do-it/).  Text mining will help bridge the gap to the missing 99%.  Here are some ways that text mining could make an impact on your business.**
+There are a number of reasons business leaders should be interested in text mining.  IDC estimate that [less than 1% of data is ever analysed](https://www.technologyreview.com/s/514346/the-data-made-me-do-it/).  Text mining will help bridge the gap to the missing 99%.  Here are some ways that text mining could make an impact on your business.
 
-##### **1 – Risk, Compliance and Threat Detection.**
+**1 – Risk, Compliance and Threat Detection.**
 
 Across a variety of sectors, insufficient risk analysis creates massive problems.  This is especially true in the financial services industry where text mining is used to detect potential compliance issues or provide early warning of fraud and criminal activities like money laundering.    Public sector organisations will also benefit from using text mining to provide early warning of issues, for example by [helping hospitals  spot potentially dangerous issues](http://www.mastodonc.com/casestudies/nhs/) before they cause real harm.  
 
@@ -58,7 +59,9 @@ Analysts need data if they’re to provide a business with accurate insights.  T
 
 **Getting Started**
 
-The key to getting a good outcome from text mining is, as for many business initiatives, clearly defining the problem you’re trying to solve, and building a business case.  We’ll be looking at ways to do that next week.  In the meantime please email us at [team@mastodonc.com](mailto:team@mastodonc.com) if you’d like to discuss this topic with us, and follow the story on twitter @mastodonc
+The key to getting a good outcome from text mining is, as for many business initiatives, clearly defining the problem you’re trying to solve, and building a business case.  We’ll be looking at ways to do that next week. 
+
+In the meantime  email us at [team@mastodonc.com](mailto:team@mastodonc.com) if you’d like a chat, or join the conversation on twitter [@mastodonc](https://twitter.com/MastodonC)
 
 
 
