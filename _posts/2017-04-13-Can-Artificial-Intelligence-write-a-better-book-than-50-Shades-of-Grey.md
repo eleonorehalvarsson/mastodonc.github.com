@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can Artificial Intelligence write a better booking than 50 Shades of Grey?
+title: Can Artificial Intelligence write a better book than 50 Shades of Grey?
 date: 2017-04-13
 author: jason
 comments: true
