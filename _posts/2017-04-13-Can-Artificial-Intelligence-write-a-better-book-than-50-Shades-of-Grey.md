@@ -1,15 +1,11 @@
-
 ---
 layout: post
 title: Can Artificial Intelligence write a better booking than 50 Shades of Grey?
-date: 2017-03-28
+date: 2017-04-13
 author: jason
 comments: true
 categories: [text mining, artificial intelligence, machine learning]
 ---
-# Can Artificial Intelligence write a better book than 50 Shades of Grey?
-
-### **Quick Summary**
 
 For all interested writers, authors and creative writing types…. I think it’s fairly safe to assume you’re safe for the time being.
 
@@ -49,7 +45,7 @@ This is the thing with creative text, it has characters, themes and a story flow
 
 My favourite book on text mining by a country mile is not one that has tons of code in it, it’s [The Bestseller Code](http://amzn.to/2k9FV9z) by Jodie Archer and Matthew Jockers. It’s a good attempt, while by their admission could be improved, investigation using multivariate analysis, NLP and other text mining tools to see if there were patterns in the best seller list.
 
-![image alt text]({{ site.url }}/assets/images/posts/image_0.png)
+![image alt text](/assets/images/AIbook_0.png)
 
 Topic is important, that goes without saying. My AI version has no plot line whatsoever as it plainly isn’t told of such matters, if you want to know more about plot lines then there are [the seven basic plot lines](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSevenBasicPlots?from=Main.TheSevenBasicPlots) that are widely used. Baking those plot lines to an AI will take work.
 
@@ -61,7 +57,7 @@ The future automation of all things literature I think is a long way off. Though
 
 API’s that exist now, well I could pick of for words to form a title. "rules are a hostile anthem" came out…. one Google Image Search for creative commons photos….
 
-![image alt text]({{ site.url }}/assets/images/posts/image_1.png)
+![image alt text](/assets/images/Googlepics_1.png)
 
 And automatically pick an image that fits a certain AI criteria. No text… pass that on to an overlay of the title of the book and the author’s name, "Alan Inglis" (geddit A.I.) and package that up in a Kindle format (that can be automated too) and off it goes to an Amazon account.
 
