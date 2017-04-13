@@ -9,6 +9,8 @@ categories: [text mining, artificial intelligence, machine learning]
 
 For all interested writers, authors and creative writing types…. I think it’s fairly safe to assume you’re safe for the time being.
 
+<!--more-->
+
 ### **Can AI Write Me a Book?**
 
 First of all, this isn’t really about code it’s just about process. So there are no juicy code snippets or scripts to get all hot under the collar about. This whole episode started out with a couple of questions.
@@ -17,7 +19,6 @@ First of all, this isn’t really about code it’s just about process. So there
 
 2. **_Is it possible to make 50 Shades of Grey readable?_**
 
-<!--more-->
 
 So before my usual working day I downloaded some recurrent neural network code, installed Tensor Flow and trained it on Shakespeare and left the laptop alone to do it’s thing. Yup, training takes a long time, in my case it was eight hours on a commodity Toshiba C70D laptop running Ubuntu. If you want to read more about RNN’s then there’s an [excellent explanation here](http://karpathy.github.io/2015/05/21/rnn-effectiveness/). Generating samples of text generated from the RNN is a doddle….. takes seconds.
 
@@ -45,7 +46,7 @@ This is the thing with creative text, it has characters, themes and a story flow
 
 My favourite book on text mining by a country mile is not one that has tons of code in it, it’s [The Bestseller Code](http://amzn.to/2k9FV9z) by Jodie Archer and Matthew Jockers. It’s a good attempt, while by their admission could be improved, investigation using multivariate analysis, NLP and other text mining tools to see if there were patterns in the best seller list.
 
-![image alt text](/assets/images/AIbook_0.png)
+![image alt text](/assets/images/AIbook_0.jpg)
 
 Topic is important, that goes without saying. My AI version has no plot line whatsoever as it plainly isn’t told of such matters, if you want to know more about plot lines then there are [the seven basic plot lines](http://tvtropes.org/pmwiki/pmwiki.php/Literature/TheSevenBasicPlots?from=Main.TheSevenBasicPlots) that are widely used. Baking those plot lines to an AI will take work.
 
