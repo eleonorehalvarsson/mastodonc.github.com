@@ -7,9 +7,7 @@ comments: true
 categories: [text mining, business]
 ---
 
-You may have an idea that text mining can bring value to your organization, but do your senior leaders share your excitement?  Possibly not.  Well not yet anyway.  The key is making a persuasive case that gets you the support and resources you need.  
-
-But building support for a data science technique like text mining requires taking a different approach to the classic business case process many organisations use.  And that can make things tricky.  
+You may have an idea that text mining can bring value to your organization, but do your senior leaders share your excitement?  Possibly not.  Well not yet anyway.  The key is making a persuasive case that gets you the support and resources you need. But building support for a data science technique like text mining requires taking a different approach to the classic business case process many organisations use.  And that can make things tricky.  
 
 <!--more-->
 
