@@ -106,6 +106,15 @@ matt:
     image: matt-bw.png
     profile: |
       Matt automates all the things and lives by the mantra "infrastructure as code, infrastructure as code".<p>When his head is not buried in The Cloud he likes sci-fi, piano, and gaming.
+shawn:
+    name: Shawn Jhanji
+    position: Business Development
+    email:
+    twitter:
+    image: shawn-bw.jpg
+    profile: |
+      Shawn enjoys working with talented and inspiring teams and connecting people to build successful, innovative businesses that make an impact. He loves helping ambitious and demanding clients solve big, game changing problems.<p>
+      He coaches and mentors entrepreneurs and founders via the Impact Hub in Kings Cross. When allowed, he collects relatively interesting stuff, falls off his bike and plays his guitars badly and without embarrassment.
 chrish:
     name: Chris Hall
     position: Strategic Advisor
