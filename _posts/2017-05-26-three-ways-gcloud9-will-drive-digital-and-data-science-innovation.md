@@ -12,8 +12,6 @@ The latest version of the UK Government’s Digital marketplace has taken the so
 
 <!--more-->
 
-![image alt text](/assets/images/Makethingsopen.jpg)
-
 It’s the simplicity, transparency and diversity of G-Cloud 9 that ultimately makes it easier for government buyers to buy innovative new services.  How has the Digital Marketplace team done this?
 
 1. **Making things simple. **Shorter and simpler contracts that are much more suitable for modern digital and data work.  
