@@ -2,7 +2,7 @@
 layout: post
 title: Three Ways G-Cloud 9 Will Drive Digital and Data Science Innovation
 date: 2017-05-26
-author: Shawn
+author: shawn
 comments: true
 categories: [text mining, artificial intelligence, machine learning]
 ---
