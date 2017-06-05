@@ -39,7 +39,7 @@ You will in particular be responsible for:
    modelling problems, by listening to the user’s needs, the available
    data, possible methods to apply, and working within time and money
    constraints to suggest the best way forwards
- * Disseminate knowledge around data science and modelling throughout
+ * Disseminating knowledge around data science and modelling throughout
    the team
 
 You will work day-to-day with the software development team, business
@@ -52,7 +52,7 @@ projects.
 
 Our ideal person for this role would:
 
-**Must Have:**
+*Must Have:*
 
  * At least Bachelors level degree in a numerate subject, or be very
    comfortable with the mathematics of data science
@@ -71,7 +71,8 @@ Our ideal person for this role would:
  * Be interested in and excited about applying data and analytics to
    important issues in the world
 
-**Nice to Have:**
+*Nice to Have:*
+
  * Have had exposure to a wide range of data science and forecasting
    challenges, and know the pros and cons of various model approaches
  * Have experience with ETL or big data technologies (spark, hadoop,
