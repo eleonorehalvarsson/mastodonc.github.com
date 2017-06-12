@@ -44,8 +44,8 @@ You will in particular be responsible for:
 
 You will work day-to-day with the software development team, business
 team, and other data scientists who you will collaborate with to
-design and implement solutions both within Witan and in other
-projects.
+design and implement solutions both within [Witan](http://www.mastodonc.com/products/witan/) and in [other
+projects](https://github.com/mastodonc).
 
 
 **Who you are**
