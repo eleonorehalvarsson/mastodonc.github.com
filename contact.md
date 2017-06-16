@@ -18,7 +18,10 @@ weight: 5
   </div>
   <div class="columns-col50">
   <h2>Get in touch</h2>
-  <p>Email: <a href="mailto:theteam@mastodonc.com">theteam@mastodonc.com</a></p>
-  <p>Twitter: <a href="https://twitter.com/MastodonC">@MastodonC</a></p>
+  <p>
+  Email: <a href="mailto:theteam@mastodonc.com">theteam@mastodonc.com</a><br />
+  Phone: 0203 397 8446<br />
+  Twitter: <a href="https://twitter.com/MastodonC">@MastodonC</a>
+  </p>
   </div>
 </div>
