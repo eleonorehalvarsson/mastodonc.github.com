@@ -17,15 +17,6 @@ bruce:
     profile: |
       Bruce toiled for years writing bash and java for investment banking data systems. Now he likes clojure, big data, open source, and making Mastodon C a mean, lean, agile machine.<p>
       He loves using GNU emacs and finding volunteers for the London Clojurians.
-eleonore:
-    name: Éléonore Mayola
-    position: Data Scientist
-    email:
-    twitter:
-    image: eleonore-bw.jpg
-    profile: |
-      Éléonore is an Hackbright Academy alumna with a background in biomedical research.<p>
-      She is a co-organiser at PyLadies London and enjoys hacking on hardware.
 jason:
     name: Jason Bell
     position: Data Engineer
@@ -64,7 +55,7 @@ antony:
       He comes from the Black Country, but he doesn't force us to hold that against him.
 christ:
     name: Chris Taylor
-    position: Commercial Development
+    position: Consultant
     email:
     twitter:
     image: christ-bw.png
@@ -142,3 +133,21 @@ chrisa:
     profile: |
       Chris is a environmentally focused product manager and UX consultant, with prior background in devops, and both front and backend development.<p>
       He loves cycling around Berlin and London (yes, really), and sharpies.
+elisabeth:
+    name: Elisabeth Weise
+    position: Associate Consultant
+    email:
+    twitter:
+    image: elisabeth-bw.jpg
+    profile: |
+      Elisabeth enjoys commercialising brilliant tech ideas through agile processes.<p>
+      She loves Babybels and likes coffee and cycling in London.
+markb:
+    name: Mark Breslin
+    position: Strategic Advisor
+    email:
+    twitter:
+    image: markb-bw.png
+    profile: |
+      Mark is a Digital Consultant, he helps organisations to solve business problems and develop new business opportunities. Mark also advises a number of startups on growth strategy.<p>
+      He is a partaker of many sports and a definite master of none; triathlete, ice climber and mountaineer.
