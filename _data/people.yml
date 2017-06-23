@@ -142,6 +142,15 @@ elisabeth:
     profile: |
       Elisabeth enjoys commercialising brilliant tech ideas through agile processes.<p>
       She loves Babybels and likes coffee and cycling in London.
+josephw:
+    name: Joseph Wilk
+    position: Associate Developer
+    email:
+    twitter:
+    image: josephwilk-bw.png
+    profile: |
+      Joseph is a programmer interested in code as a form of self expression and destroying the tools of programming to rediscover how they enable us.<p>
+      With a wide background ranging from building oil pipeline avoidance systems to AI generated lullabies & brainwave powered music. He sits somewhere between an artist, musician and programmer.
 markb:
     name: Mark Breslin
     position: Strategic Advisor
