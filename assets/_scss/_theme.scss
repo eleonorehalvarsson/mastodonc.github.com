@@ -612,6 +612,7 @@ body > h2 {
 }
 
 .pricing-wrap {
+  text-align: center;
   background-color: lighten($brandcol2, 15%);
   h3 {
     font-size: $fontsize-xlarge;
@@ -634,10 +635,8 @@ body > h2 {
     font-weight: 500;
   }
   .Rtable-cell--foot {
-    margin-top: 1em;
-    @include mq(small) {
-      text-align: center;
-    }
+    text-align: center;
+    padding-top: 2em;
   }
   .Rtable-cell.border {
     border-left: 1px solid $brandcol4;

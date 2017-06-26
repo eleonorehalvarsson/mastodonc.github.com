@@ -120,9 +120,9 @@
                 <div class="Rtable Rtable--3cols Rtable--collapse">
 
                     {% for price in page.pricing %}
-                    <div style="order:0;" class="Rtable-cell Rtable-cell--head title {% if price.border %}border{% endif %}"><h1>{{ price.title }}</h1></div>
-                    <div style="order:1;" class="Rtable-cell {% if price.border %}border{% endif %}"> {{ price.desc }}</div>
-                    <div style="order:2;" class="Rtable-cell {% if price.border %}border{% endif %}">
+                    <div style="order:0;" class="Rtable-cell Rtable-cell--head title {% unless forloop.first %}border{% endunless %}"><h1>{{ price.title }}</h1></div>
+                    <div style="order:1;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}"> {{ price.desc }}</div>
+                    <div style="order:2;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}">
                         <h1>For</h1>
                         <ul>
                             {% for price_for in price.for  %}
@@ -130,19 +130,16 @@
                             {% endfor  %}
                         </ul>
                     </div>
-                    <div style="order:3;" class="Rtable-cell {% if price.border %}border{% endif %}">
+                    <div style="order:3;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}">
                         <h1>Setup Cost</h1>
                         <p>{{ price.setup-cost }}</p>
                     </div>
-                    <div style="order:4;" class="Rtable-cell {% if price.border %}border{% endif %}">
+                    <div style="order:4;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}">
                         <h1>Monthly Cost</h1>
                         <p>{{ price.monthly-cost }}</p>
                         <p>({{ price.min-term }})</p>
                     </div>
-                    <div style="order:5;" class="Rtable-cell {% if price.border %}border{% endif %}">
-                        <p>{{ price.additional }}</p>
-                    </div>
-                    <div style="order:6;" class="Rtable-cell Rtable-cell--foot">
+                    <div style="order:6;" class="Rtable-cell Rtable-cell--foot {% unless forloop.first %}border{% endunless %}">
                         <a class="contact-link" target="_blank" href="mailto:support@mastodonc.com?subject=I%20am%20interested%20in%20{{ price.title }}!&body=Please%20send%20me%20more%20information.">Contact Us</a>
                     </div>
                     {% endfor %}
