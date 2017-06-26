@@ -158,8 +158,6 @@ body {
   padding: 0.8em 1.2em;
   overflow: hidden;
   list-style: none;
-  border: solid 3px white;
-  background: rgba(112, 128, 144, 0.2);
 }
 .Rtable-cell > h1,
 .Rtable-cell > h2,
@@ -195,10 +193,13 @@ body {
   left: 3px;
 }
 .Rtable-cell {
-  margin: -3px 0 0 -3px;
-  background-color: white;
-  border-color: #e2e6e9;
+  margin: -3px 0 0 -3px;}
+
+.Rtable-cell--foot {
+  border-top: 1px solid $brandcol4;
+  border-bottom: 1px solid $brandcol4;
 }
+
 
 /* Responsive
 ==================================== */

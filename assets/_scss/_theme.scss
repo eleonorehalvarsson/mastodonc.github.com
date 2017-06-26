@@ -610,6 +610,7 @@ body > h2 {
     color: $brandcol5;
   }
 }
+
 .pricing-wrap {
   background-color: lighten($brandcol2, 15%);
   h3 {
@@ -617,6 +618,35 @@ body > h2 {
     font-weight: 500;
     margin: $uniunit-large 0;
     color: $brandcol5;
+  }
+  .title {
+    h1 {
+      font-size: $fontsize-large;
+      @include mq(small){
+        font-size: $fontsize-xxlarge;
+      }
+    }
+  }
+  h1 {
+    font-size: $fontsize-normal;
+    margin-bottom: 0;
+    color: $brandcol1;
+    font-weight: 500;
+  }
+  .Rtable-cell--foot {
+    @include mq(small) {
+      text-align: center;
+    }
+  }
+  .contact-link
+  {
+    box-shadow: 0 4px 0 #3e995c;
+    background-color: #63c082;
+    border-radius: 20pt;
+    transform: scale(1.1);
+    text-decoration: none;
+    color: white;
+    padding: 0.4em;
   }
 }
 .plans-wrap {
