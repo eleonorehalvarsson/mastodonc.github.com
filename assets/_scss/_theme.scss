@@ -651,10 +651,14 @@ body > h2 {
     box-shadow: 0 4px 0 darken($brandcol4, 10%);
     background-color: lighten($brandcol4, 5%);
     border-radius: 20pt;
-    transform: scale(1.1);
+    transform: scale(1);
     text-decoration: none;
     color: white;
     padding: 0.4em;
+    transition: padding 0.1s;
+    &:hover {
+      padding: 0.6em;
+    }
   }
   li {
     margin-bottom: 0.6em;
