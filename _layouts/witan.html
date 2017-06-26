@@ -113,116 +113,48 @@
     </section>
 
     <!-- PRICING -->
-    <section class="features-wrap">
-      <div class="columns">
-        <div class="columns-col100">
-          <h2 id="pricing">Pricing</h2>
-          <ul class="grid grid-33">
+    <section class="pricing-wrap">
+        <div class="columns">
+            <div class="columns-col100">
+                <h2 id="pricing">Pricing</h2>
+                <div class="Rtable Rtable--3cols Rtable--collapse">
 
-            <li class="grid-item left inline">
-              <h1>Witan Single</h1>
-              <p>
-                Use a single pre-built model on the Witan platform and run it with your own organisation’s data. Run unlimited scenarios. Share the results internally and externally.
-              </p>
+                    <div style="order:0;" class="Rtable-cell Rtable-cell--head"><h1>Eddard Stark</h1></div>
+                    <div style="order:1;" class="Rtable-cell">Has a sword named Ice</div>
+                    <div style="order:2;" class="Rtable-cell">No direwolf</div>
+                    <div style="order:3;" class="Rtable-cell Rtable-cell--foot"><strong>Lord of Winterfell</strong></div>
 
-            </li>
+                    <div style="order:0;" class="Rtable-cell Rtable-cell--head"><h1>Jon Snow</h1></div>
+                    <div style="order:1;" class="Rtable-cell">Has a sword named Longclaw</div>
+                    <div style="order:2;" class="Rtable-cell">Direwolf: Ghost</div>
+                    <div style="order:3;" class="Rtable-cell Rtable-cell--foot"><strong>Knows nothing</strong></div>
 
-            <li class="grid-item left inline">
-              <h1>Witan Strategic</h1>
-              <p>
-                Upload internal data from across your organisation. Use our core model set of pre-built models for cities and local government. Transform your data the way you need it. Control the sharing of all the data and results.
-              </p>
+                    <div style="order:0;" class="Rtable-cell Rtable-cell--head"><h1>FOO bar</h1></div>
+                    <div style="order:1;" class="Rtable-cell">Has a sword named Longclaw</div>
+                    <div style="order:2;" class="Rtable-cell">Direwolf: Ghost</div>
+                    <div style="order:3;" class="Rtable-cell Rtable-cell--foot"><strong>Knows nothing</strong></div>
 
-            </li>
-
-            <li class="grid-item left inline">
-              <h1>Witan Collect + Share</h1>
-              <p>
-                Collect data from multiple local authorities or other bodies in a structured, schema-checked way. Use our core model set of pre-built models. Control the sharing of the data uploaded and the results.
-              </p>
-            </li>
-
-            <!-- FOR -->
-            <li class="grid-item left inline">
-              <h2>For</h2>
-              <p>
-                Departmental heads in Local Authorities who need to solve a specific problem, on a one-off or ongoing basis.
-              </p>
-              <p>
-                Providers to Local Authorities who need a robust data-driven predictive model
-              </p>
-            </li>
-
-            <li class="grid-item left inline">
-              <h2>For</h2>
-              <p>
-                CEOs of Local Authorities who are ready for a strategic solution to data sharing and data-driven decision-making across their organisation.
-              </p>
-            </li>
-
-            <li class="grid-item left inline">
-              <h2>For</h2>
-              <p>
-                CEOs and Mayors of large Cities and multi-borough regions who want to embrace data-driven decision-making, and have a need to collect data from multiple local authorities.
-              </p>
-            </li>
-
-            <!-- SETUP COSTS -->
-            <li class="grid-item left inline">
-              <h2>Set up cost</h2>
-              <p>from £5,000</p>
-            </li>
-
-            <li class="grid-item left inline">
-              <h2>Set up cost</h2>
-              <p>from £10,000</p>
-            </li>
-
-            <li class="grid-item left inline">
-              <h2>Set up cost</h2>
-              <p>from £15,000</p>
-            </li>
-
-            <!-- MONTHLY COSTS -->
-            <li class="grid-item left inline">
-              <h2>Monthly cost</h2>
-              <p>from £1,000</p>
-              <p>(no minimum term)</p>
-            </li>
-
-            <li class="grid-item left inline">
-              <h2>Monthly cost</h2>
-              <p>from £4,000</p>
-              <p>(12 month minimum term)</p>
-            </li>
-
-            <li class="grid-item left inline">
-              <h2>Monthly cost</h2>
-              <p>from £6,000</p>
-              <p>(12 month minimum term)</p>
-            </li>
-
-          </ul>
+                </div>
+            </div>
         </div>
-      </div>
     </section>
 
     <!-- FAQ -->
     <!-- <section class="wrap">
-      <div class="columns content">
-        <div class="columns-col100">
-          <h2 id="faq">Frequently asked questions</h2>
-          <dl class="faq">
-            {% for qa in site.data.faq %}
-            {% if qa.product contains page.title %}
-            <dt class="faq-q">{{ qa.question }}</dt>
-            <dd class="faq-a">{{ qa.answer }}</dt>
-              {% endif %}
-            {% endfor %}
-          </dl>
-        </div>
-      </div>
-    </section> -->
+         <div class="columns content">
+         <div class="columns-col100">
+         <h2 id="faq">Frequently asked questions</h2>
+         <dl class="faq">
+         {% for qa in site.data.faq %}
+         {% if qa.product contains page.title %}
+         <dt class="faq-q">{{ qa.question }}</dt>
+         <dd class="faq-a">{{ qa.answer }}</dt>
+         {% endif %}
+         {% endfor %}
+         </dl>
+         </div>
+         </div>
+         </section> -->
 
     <a href="#contact"></a>
     {% include contact.html %}

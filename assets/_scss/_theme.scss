@@ -600,10 +600,19 @@ body > h2 {
 .intro {
   padding-bottom: $uniunit-large;
 }
-.features-wrap, .tech-wrap {
+.features-wrap, .tech-wrap, .pricing-wrap {
   background-color: lighten($brandcol2, 10%);
   padding: $uniunit;
   h2 {
+    font-size: $fontsize-xlarge;
+    font-weight: 500;
+    margin: $uniunit-large 0;
+    color: $brandcol5;
+  }
+}
+.pricing-wrap {
+  background-color: lighten($brandcol2, 15%);
+  h3 {
     font-size: $fontsize-xlarge;
     font-weight: 500;
     margin: $uniunit-large 0;
