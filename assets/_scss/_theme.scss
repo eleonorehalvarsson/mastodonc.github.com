@@ -638,8 +638,7 @@ body > h2 {
       text-align: center;
     }
   }
-  .contact-link
-  {
+  .contact-link {
     box-shadow: 0 4px 0 #3e995c;
     background-color: #63c082;
     border-radius: 20pt;
@@ -647,6 +646,9 @@ body > h2 {
     text-decoration: none;
     color: white;
     padding: 0.4em;
+  }
+  li {
+    margin-bottom: 0.6em;
   }
 }
 .plans-wrap {
