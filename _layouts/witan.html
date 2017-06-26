@@ -120,9 +120,9 @@
                 <div class="Rtable Rtable--3cols Rtable--collapse">
 
                     {% for price in page.pricing %}
-                    <div style="order:0;" class="Rtable-cell Rtable-cell--head title"><h1>{{ price.title }}</h1></div>
-                    <div style="order:1;" class="Rtable-cell"> {{ price.desc }}</div>
-                    <div style="order:2;" class="Rtable-cell">
+                    <div style="order:0;" class="Rtable-cell Rtable-cell--head title {% if price.border %}border{% endif %}"><h1>{{ price.title }}</h1></div>
+                    <div style="order:1;" class="Rtable-cell {% if price.border %}border{% endif %}"> {{ price.desc }}</div>
+                    <div style="order:2;" class="Rtable-cell {% if price.border %}border{% endif %}">
                         <h1>For</h1>
                         <ul>
                             {% for price_for in price.for  %}
@@ -130,16 +130,16 @@
                             {% endfor  %}
                         </ul>
                     </div>
-                    <div style="order:3;" class="Rtable-cell">
+                    <div style="order:3;" class="Rtable-cell {% if price.border %}border{% endif %}">
                         <h1>Setup Cost</h1>
                         <p>{{ price.setup-cost }}</p>
                     </div>
-                    <div style="order:4;" class="Rtable-cell">
+                    <div style="order:4;" class="Rtable-cell {% if price.border %}border{% endif %}">
                         <h1>Monthly Cost</h1>
                         <p>{{ price.monthly-cost }}</p>
                         <p>({{ price.min-term }})</p>
                     </div>
-                    <div style="order:5;" class="Rtable-cell">
+                    <div style="order:5;" class="Rtable-cell {% if price.border %}border{% endif %}">
                         <p>{{ price.additional }}</p>
                     </div>
                     <div style="order:6;" class="Rtable-cell Rtable-cell--foot">

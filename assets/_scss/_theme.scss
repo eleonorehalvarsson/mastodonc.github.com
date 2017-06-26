@@ -634,13 +634,20 @@ body > h2 {
     font-weight: 500;
   }
   .Rtable-cell--foot {
+    margin-top: 1em;
     @include mq(small) {
       text-align: center;
     }
   }
+  .Rtable-cell.border {
+    border-left: 1px solid $brandcol4;
+    @include mq(small) {
+      border: 0;
+    }
+  }
   .contact-link {
-    box-shadow: 0 4px 0 #3e995c;
-    background-color: #63c082;
+    box-shadow: 0 4px 0 darken($brandcol4, 10%);
+    background-color: lighten($brandcol4, 5%);
     border-radius: 20pt;
     transform: scale(1.1);
     text-decoration: none;

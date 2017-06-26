@@ -53,6 +53,7 @@ features:
 
 pricing:
  - title: Witan Single
+   border: false
    desc: Use a single pre-built model on the Witan platform and run it with your own organisation’s data. Run unlimited scenarios. Share the results internally and externally.
    for:
    - Departmental heads in Local Authorities who need to solve a specific problem, on a one-off or ongoing basis.
@@ -62,6 +63,7 @@ pricing:
    min-term: no minimum term
    additional:
  - title: Witan Strategic
+   border: true
    desc: Upload internal data from across your organisation. Use our core model set of pre-built models for cities and local government. Transform your data the way you need it. Control the sharing of all the data and results.
    for:
    - CEOs of Local Authorities who are ready for a strategic solution to data sharing and data-driven decision-making across their organisation.
@@ -70,6 +72,7 @@ pricing:
    min-term: 12 month minimum term
    additional:
  - title: Witan Collect + Share
+   border: true
    desc: Collect data from multiple local authorities or other bodies in a structured, schema-checked way. Use our core model set of pre-built models. Control the sharing of the data uploaded and the results.
    for:
    - CEOs and Mayors of large Cities and multi-borough regions who want to embrace data-driven decision-making, and have a need to collect data from multiple local authorities.
