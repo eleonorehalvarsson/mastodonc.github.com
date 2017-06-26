@@ -128,12 +128,96 @@ html {
     min-height: 100%;
 }
 body {
-    margin: 0 0 100px; /* bottom = footer height */
+  margin: 0 0 100px; /* bottom = footer height */
 }
 .footer-wrap {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 100px;
-    width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+}
+
+/* Responsive collapse columns - https://codepen.io/team/css-tricks/pen/KzWORB
+==================================== */
+.Rtable {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin: 0 0 3em 0;
+  padding: 0;
+}
+.Rtable-cell {
+  box-sizing: border-box;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  width: 100%;
+  padding: 0.8em 1.2em;
+  overflow: hidden;
+  list-style: none;
+}
+.Rtable-cell > h1,
+.Rtable-cell > h2,
+.Rtable-cell > h3,
+.Rtable-cell > h4,
+.Rtable-cell > h5,
+.Rtable-cell > h6 {
+  margin: 0;
+}
+/* Table column sizing
+================================== */
+.Rtable--2cols > .Rtable-cell {
+  width: 50%;
+}
+.Rtable--3cols > .Rtable-cell {
+  width: 33.33%;
+}
+.Rtable--4cols > .Rtable-cell {
+  width: 25%;
+}
+.Rtable--5cols > .Rtable-cell {
+  width: 20%;
+}
+.Rtable--6cols > .Rtable-cell {
+  width: 16.6%;
+}
+
+/* Apply styles
+================================== */
+.Rtable {
+  position: relative;
+  top: 3px;
+  left: 3px;
+}
+.Rtable-cell {
+  margin: -3px;}
+
+.Rtable-cell--foot {
+}
+
+
+/* Responsive
+==================================== */
+@include mq(small) {
+  .Rtable--collapse {
+    display: block;
+  }
+  .Rtable--collapse > .Rtable-cell {
+    width: 100% !important;
+  }
+  .Rtable--collapse > .Rtable-cell--foot {
+    margin-bottom: 1em;
+  }
+}
+.no-flexbox .Rtable {
+  display: block;
+}
+.no-flexbox .Rtable > .Rtable-cell {
+  width: 100%;
+}
+.no-flexbox .Rtable > .Rtable-cell--foot {
+  margin-bottom: 1em;
 }

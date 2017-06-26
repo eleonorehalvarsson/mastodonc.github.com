@@ -1,4 +1,3 @@
-
 .grid-wrap {
   background-color: white;
   max-width: $maxwidth-site;
@@ -33,7 +32,8 @@
     font-weight: 500;
   }
   h2 {
-    color: $brandcol5;
+    font-size: $fontsize-normal;
+    color: $brandcol1;
     margin: 0 0 $uniunit-small;
   }
   p {

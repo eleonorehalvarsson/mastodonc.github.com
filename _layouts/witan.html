@@ -19,6 +19,7 @@
           <li><a href="#benefits">Benefits</a></li>
           <li><a href="#clients">Clients</a></li>
           <li><a href="#features">Features</a></li>
+          <li><a href="#pricing">Pricing</a></li>
           <!-- <li><a href="#faq">FAQ</a></li> -->
           <li><a href="#contact">Get in touch</a></li>
         </ul>
@@ -26,7 +27,6 @@
     </section>
 
     <!-- OVERVIEW -->
-    <section class="wrap">
       <div class="columns content">
         <div class="columns-col100">
           <h2>Overview</h2>
@@ -55,6 +55,7 @@
         </div>
       </div>
     </section>
+
 
     <!-- CLIENTS
     <section class="parade-wrap">
@@ -111,22 +112,58 @@
       </div>
     </section>
 
+    <!-- PRICING -->
+    <section class="pricing-wrap">
+        <div class="columns">
+            <div class="columns-col100">
+                <h2 id="pricing">Pricing</h2>
+                <div class="Rtable Rtable--3cols Rtable--collapse">
+
+                    {% for price in page.pricing %}
+                    <div style="order:0;" class="Rtable-cell Rtable-cell--head title {% unless forloop.first %}border{% endunless %}"><h1>{{ price.title }}</h1></div>
+                    <div style="order:1;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}"> {{ price.desc }}</div>
+                    <div style="order:2;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}">
+                        <h1>For</h1>
+                        <ul>
+                            {% for price_for in price.for  %}
+                            <li>{{ price_for }}</li>
+                            {% endfor  %}
+                        </ul>
+                    </div>
+                    <div style="order:3;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}">
+                        <h1>Setup Cost</h1>
+                        <p>{{ price.setup-cost }}</p>
+                    </div>
+                    <div style="order:4;" class="Rtable-cell {% unless forloop.first %}border{% endunless %}">
+                        <h1>Monthly Cost</h1>
+                        <p>{{ price.monthly-cost }}</p>
+                        <p>({{ price.min-term }})</p>
+                    </div>
+                    <div style="order:6;" class="Rtable-cell Rtable-cell--foot {% unless forloop.first %}border{% endunless %}">
+                        <a class="contact-link" target="_blank" href="mailto:theteam@mastodonc.com?subject=I%20am%20interested%20in%20{{ price.title | url_encode }}!&body=Please%20send%20me%20more%20information.">Contact Us</a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ -->
     <!-- <section class="wrap">
-      <div class="columns content">
-        <div class="columns-col100">
-          <h2 id="faq">Frequently asked questions</h2>
-          <dl class="faq">
-            {% for qa in site.data.faq %}
-            {% if qa.product contains page.title %}
-            <dt class="faq-q">{{ qa.question }}</dt>
-            <dd class="faq-a">{{ qa.answer }}</dt>
-              {% endif %}
-            {% endfor %}
-          </dl>
-        </div>
-      </div>
-    </section> -->
+         <div class="columns content">
+         <div class="columns-col100">
+         <h2 id="faq">Frequently asked questions</h2>
+         <dl class="faq">
+         {% for qa in site.data.faq %}
+         {% if qa.product contains page.title %}
+         <dt class="faq-q">{{ qa.question }}</dt>
+         <dd class="faq-a">{{ qa.answer }}</dt>
+         {% endif %}
+         {% endfor %}
+         </dl>
+         </div>
+         </div>
+         </section> -->
 
     <a href="#contact"></a>
     {% include contact.html %}
