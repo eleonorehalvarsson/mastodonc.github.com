@@ -15,6 +15,8 @@ Local government and cities have a challenging job - delivering multiple complex
 
 Better use of data is a big piece of this: it can help leaders save money and improve performance by creating better policies and making better decisions, by accessing shared, trusted data and exploring policy options.
 
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-2d5848d9-00d4-4807-8040-ee03471d6f27"><span class="hs-cta-node hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27" id="hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27"  target="_blank" ><img class="hs-cta-img" id="hs-cta-img-2d5848d9-00d4-4807-8040-ee03471d6f27" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27.png"  alt="Download a free checklist: Getting a Data Project Started"/></a><!-- end HubSpot Call-to-Action Code -->
+
 We already know that many executives in commercial organisations are taking advantage of big data, data science, and new data modelling techniques in order to compete. Now, city and local government  leaders are starting to do the same, in order to achieve their own arguably more important goals.
 
 Here are four practical approaches that can help local government and city leaders be more data-driven.
