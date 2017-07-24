@@ -13,7 +13,7 @@ We’re looking for an intern to help us develop an exciting city data product, 
 
 ## Who we are
 
-Mastodon C are agile big data specialists. We offer the open source
+Mastodon C are a agile big data specialists. We offer the open source
 technology platform and the skills to help our clients realise the
 potential of their data. We work in particular in applying data to
 areas where we think we can have a positive impact on the world.
@@ -31,7 +31,7 @@ with our data science team, and some technical work cleaning the data
 and loading it into our platform.
 
 You will work day-to-day with the software development team, business
-team, and other data scientists who you will collaborate with to
+team, and our data science consulting team, who you will collaborate with to
 design and implement solutions both within Witan and in other
 projects.
 
@@ -54,7 +54,7 @@ Our ideal person for this role would:
 
 ## Salary and work environment
 
-We are based in Bermondsey, London. We’re happy to discuss part-remote
+We are a data science consultancy based in Bermondsey, London. We’re happy to discuss part-remote
 or part-time arrangements if those are important for you.
 
 We’re a small and very consultative and interactive team, which means
