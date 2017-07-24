@@ -13,7 +13,7 @@ We’re looking for an intern to help us develop an exciting city data product, 
 
 ## Who we are
 
-Mastodon C are a agile big data specialists. We offer the open source
+Mastodon C are agile big data specialists. We offer the open source
 technology platform and the skills to help our clients realise the
 potential of their data. We work in particular in applying data to
 areas where we think we can have a positive impact on the world.
