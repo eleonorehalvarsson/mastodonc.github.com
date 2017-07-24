@@ -17,6 +17,8 @@ In common with many technology projects, businesses get better value from data s
 
 The classic business case development process requires a detailed examination of the problem, research into the current context, consideration of different options, return on investment calculations, risk and mitigation plans, resource allocations and so on. This level of analysis is intended to bring discipline to decision making. The detail is reassuring.  But it’s often the detail that’s the problem.  
 
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-2d5848d9-00d4-4807-8040-ee03471d6f27"><span class="hs-cta-node hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27" id="hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27"  target="_blank" ><img class="hs-cta-img" id="hs-cta-img-2d5848d9-00d4-4807-8040-ee03471d6f27" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27.png"  alt="Download a free checklist: Getting a Data Project Started"/></a><!-- end HubSpot Call-to-Action Code -->
+
 ### The devil is in the detail
 
 Things change quickly in the world of work. In a matter of moments the key factors documented during the research phase of a business case can dramatically change. Competitors react, budgets are cut, new legislation emerges, people leave. No business case can hope to offer mitigation for every risk. No business case can plan for everything that can, and will, change.  Which is why the agile approach of releasing quickly, adapting fast and learning as you go works so well.  
@@ -49,4 +51,4 @@ Ask for cash without knowing what the benefits will be.
 
 Forget to speak to the people who care most about the problem you’re looking at.
 
-<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-2d5848d9-00d4-4807-8040-ee03471d6f27"><span class="hs-cta-node hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27" id="hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27"  target="_blank" ><img class="hs-cta-img" id="hs-cta-img-2d5848d9-00d4-4807-8040-ee03471d6f27" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27.png"  alt="Download a free checklist: Getting a Data Project Started"/></a><!-- end HubSpot Call-to-Action Code -->
+
