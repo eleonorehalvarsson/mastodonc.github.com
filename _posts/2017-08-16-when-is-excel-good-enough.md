@@ -1,4 +1,16 @@
+---
+layout: post
+title: When is Excel Good Enough
+date: 2017-08-16
+author: seb
+comments: true
+categories: [data science, excel]
+---
+
+
 One question that often comes up when we talk to people new to data science is "Why not just use Excel?"  It’s a reasonable question that’s not as easy to answer as you might think, but answering it does go some way to answering a key question anyone planning a data science project needs to consider - what’s the simplest way to get to the results I need?
+
+<!--more-->
 
 Someone with coding experience might be expected to sniff at Excel. Their response may be "well, why *would* you use Excel?" Excel is almost the antithesis of the open source world that much of data science is built around - it’s corporate, closed and (to some minds) clunky.
 
