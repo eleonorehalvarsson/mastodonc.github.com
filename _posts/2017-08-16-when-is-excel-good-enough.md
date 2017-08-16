@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When is Excel Good Enough
+title: When is Excel Good Enough?
 date: 2017-08-16
 author: seb
 comments: true
@@ -17,6 +17,8 @@ Someone with coding experience might be expected to sniff at Excel. Their respon
 However, to my mind, there is no inherent reason to choose code (in any language) over Excel. As with many business problems, the most straightforward route to an answer or result is often the best.
 
 So the simple answer to this question is often "if you can do the job in Excel, and you can use Excel, do it in Excel".
+
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-2d5848d9-00d4-4807-8040-ee03471d6f27"><span class="hs-cta-node hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27" id="hs-cta-2d5848d9-00d4-4807-8040-ee03471d6f27"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27"  target="_blank" ><img class="hs-cta-img" id="hs-cta-img-2d5848d9-00d4-4807-8040-ee03471d6f27" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/3461032/2d5848d9-00d4-4807-8040-ee03471d6f27.png"  alt="Download a free checklist: Getting a Data Project Started"/></a><!-- end HubSpot Call-to-Action Code -->
 
 But Excel is not always fit for purpose. To make things easier here’s a summary of the key differences between Excel and coding languages commonly used in data science, like Clojure and R. Weighing up the differences should help you decide whether to do a data analysis in Excel or whether it will need coding.
 
