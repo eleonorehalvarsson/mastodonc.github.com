@@ -7,7 +7,7 @@ comments: true
 categories: [data science, send, witan, video]
 ---
 
-In a recent [blog post](http://www.mastodonc.com/local%20government/smart%20cities/data%20science/2017/06/27/How-can-data-be-used-to-improve-local-government-service-planning-and-delivery.html) we talked about using data to improve local government service planning and delivery. As part of our Witan platform, we are delivering a number of pre-built models for common service planning and demand forecasting challenges that face city leaders; one of the most popular of these is Special Educational Needs demand forecasting and commissioning, which is a particularly costly and complex area to manage. We've now [launched a video](/data%20science/send/witan/2017/08/17/witan-send.html) showing the experience of using the model within the Witan platform - please view and enjoy!
+In a recent [blog post](http://www.mastodonc.com/local%20government/smart%20cities/data%20science/2017/06/27/How-can-data-be-used-to-improve-local-government-service-planning-and-delivery.html) we talked about using data to improve local government service planning and delivery. As part of our Witan platform, we are delivering a number of pre-built models for common service planning and demand forecasting challenges that face city leaders; one of the most popular of these is Special Educational Needs demand forecasting and commissioning, which is a particularly costly and complex area to manage. We've now [launched a video](/data%20science/send/witan/video/2017/08/17/witan-send.html) showing the experience of using the model within the Witan platform - please view and enjoy!
 
 <!--more-->
 
