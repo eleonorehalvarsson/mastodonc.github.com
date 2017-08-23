@@ -11,3 +11,7 @@ The challenges may be big. And the future unclear. But a data-driven revolution 
 <!--more-->
 
 In this excerpt from The Terrier Magazine, Jaime Blakely-Glover, an expert in public real estate strategy at [Lambert Smith Hampton](http://www.lsh.co.uk), offers ideas and examples of tools and techniques that public sector leaders can adopt to get more from their assets and plan future service delivery.
+
+[Download the article](https://cdn2.hubspot.net/hubfs/3461032/Mastodon%20C%20and%20LSH%20-%20Terrier%20article%20-%20Summer%202017.pdf)
+
+
