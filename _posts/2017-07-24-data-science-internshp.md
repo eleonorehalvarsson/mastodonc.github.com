@@ -7,6 +7,8 @@ comments: true
 categories: [hiring, internship]
 ---
 
+*Update: Please note this post has now been filled*
+
 We’re looking for an intern to help us develop an exciting city data product, Witan. More details are below.
 
 <!--more-->
