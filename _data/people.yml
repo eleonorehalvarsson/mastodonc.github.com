@@ -97,6 +97,15 @@ matt:
     image: matt-bw.png
     profile: |
       Matt automates all the things and lives by the mantra "infrastructure as code, infrastructure as code".<p>When his head is not buried in The Cloud he likes sci-fi, piano, and gaming.
+mariana:
+    name: Mariana de Souza
+    position: Data Scientist
+    email:
+    twitter:
+    image: mariana-bw.png
+    profile: |
+      Mariana is a junior data scientist with a physical oceanography/engineering background. She works with Python and she is learning Clojure now. She enjoys modelling and analysing data.<p> When she’s not looking at a screen, she likes to ride her bikes, grow chillies, dance, piña coladas and not getting caught in the rain.
+
 shawn:
     name: Shawn Jhanji
     position: Business Development
