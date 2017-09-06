@@ -19,7 +19,6 @@ putting extra urgency on smart commissioning. This blog post explains
 more about how we are trying to tackle that challenge.
 
 <!--more-->
-
 We recently posted a video showing the experience for decision-makers
 of using [our new special educational needs and disability services
 (SEND) demand
@@ -37,6 +36,8 @@ should be creating decades into the future. We achieve this
 probabilistically, by learning about what has happened in the past and
 running thousands of simulations of possible futures, based on an
 authority’s local offer and need profile, and their own costs.
+
+<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-278795c6-a5ec-429d-a4a5-aa90044fe71f"><span class="hs-cta-node hs-cta-278795c6-a5ec-429d-a4a5-aa90044fe71f" id="hs-cta-278795c6-a5ec-429d-a4a5-aa90044fe71f"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/3461032/278795c6-a5ec-429d-a4a5-aa90044fe71f" ><img class="hs-cta-img" id="hs-cta-img-278795c6-a5ec-429d-a4a5-aa90044fe71f" style="border-width:0px;" height="256" width="513" src="https://no-cache.hubspot.com/cta/default/3461032/278795c6-a5ec-429d-a4a5-aa90044fe71f.png"  alt="Request a free data science demo"/></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> 
 
 We’re now supporting a number of authorities with their SEND demand
 modelling and commissioning thoughts, and moving on to developing new
