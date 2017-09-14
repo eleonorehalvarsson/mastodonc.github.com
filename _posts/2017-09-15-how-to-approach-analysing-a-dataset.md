@@ -2,7 +2,7 @@
 layout: post
 title: How to approach analysing a dataset
 date: 2017-09-15
-author: seb
+author: seb and sunny
 comments: true
 categories: [data science]
 ---
