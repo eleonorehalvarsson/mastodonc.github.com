@@ -65,7 +65,7 @@ The primary goal of the data user or data consumer is to get access to the corre
 
 ## How should Your Data Governance Approach Support Data Audits and Data Stewardship?
 
-## The primary goal of the data steward is to make sure that data is being provably used in an appropriate and legal way. This requires flexible and robust access controls and an audit trail of what was done with a particular resource.  A data governance system should therefore include
+The primary goal of the data steward is to make sure that data is being provably used in an appropriate and legal way. This requires flexible and robust access controls and an audit trail of what was done with a particular resource.  A data governance system should therefore include
 
 * **Access controls that allow users to share data with individuals or with particular groups appropriately.** For example the adult social care department of a local authority might want to share data internally and with external partners in order to [create plans or commission services](http://www.mastodonc.com/data%20science/send/asc/witan/2017/09/05/demand-projection-send-asc.html).  In this example access controls will need to be fine grained enough to allow users to see the data they need - for example external partners may only need to see metadata, internal partners will need see both the file and metadata, and specific team members will need to be see the file, edit the metadata and manage sharing. In this way your data governance system will allow users to appropriately delegate authority to other users.
 
