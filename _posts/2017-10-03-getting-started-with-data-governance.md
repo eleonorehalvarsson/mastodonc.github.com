@@ -77,7 +77,7 @@ The primary goal of the data steward is to make sure that data is being provably
 
 To make data both a useful asset for your organisation, whilst sticking to the rules, your data governance system and processes need to be able to support the key principles of data governance - using metadata, creating data packs, ensuring the immutability of data, and preserving the immutability of events for all things.
 
-For smaller organisations this could potentially be a manual process, but for larger ones the task will need systems and tools. The question then becomes how do I ensure that my systems and tools are up to the job?  This is where you may want consider technology that has been specifically designed to do data governance effectively - tools like Witan Datastore and systems from SAS and Hortonworks that have been been designed to make data governance fast and effective.
+For smaller organisations this could potentially be a manual process, but for larger ones the task will need systems and tools. The question then becomes how do I ensure that my systems and tools are up to the job?  This is where you may want consider technology that has been specifically designed to do data governance effectively - tools like [Witan Datastore](http://www.mastodonc.com/products/witan/) and systems from SAS and Hortonworks have been been designed to make data governance fast and effective.
 
 If you adopt the data governance principles we’ve described, and oversee everything with an efficient system, you’ll be a long way towards making sure data is used effectively and securely in your organisation.
 
