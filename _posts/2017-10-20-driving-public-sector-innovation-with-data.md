@@ -45,7 +45,7 @@ There’s lots of great services that are being built using data that find ways 
 
 ## Stay Connected!
 
-The full report will be published later in 2017. In the meantime, if you’re a public sector leader working with data, keen to connect with colleagues, and stay in touch with the latest ideas, join the [UK Data Connect Slack channel](https://join.slack.com/t/mastodonctest/shared_invite/enQtMjU4ODMwODk4Mzg1LWNhMWQ2ZWJmNDQxNDFmY2MxNTkwNjc3NjJhMzIzOGVlNzNiN2NjMzg5MzQ1YTE1NzczODZhNTY2YmZjNjE2ODg).
+The full report will be published later in 2017. In the meantime, if you’re a public sector leader working with data, keen to connect with colleagues, and stay in touch with the latest ideas, join the UK Data Connect Slack channel. Send us an [email](mailto:theteam@mastodonc.com) and we’ll send you the magic link!
 
 Finally our thanks go to the participants for making such valuable contributions to our understanding of a complex area. And to Nevena, Eddie and the Nesta team for their skilful facilitation, useful insights and efficient organisation.
 
