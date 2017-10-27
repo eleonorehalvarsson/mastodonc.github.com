@@ -65,6 +65,8 @@ Greater Manchester Connect
 
 Greater London Authority
 
+London Borough of Barking and Dagenham
+
 London Borough of Harrow
 
 London Borough of Islington
