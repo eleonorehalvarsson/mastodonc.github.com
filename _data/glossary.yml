@@ -23,3 +23,83 @@ C:
 D:
   - term: Data
     definition: “A set of values of qualitative or quantitative variables.” (wikipedia). Information in raw form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects.  In the context of computing data can be thought of as information that is transmitted or stored.
+  - term: Database
+    definition: A digital collection of data and the structure around which the data is organized.
+  - term: Data Science
+    definition: Data science is an interdisciplinary exercise that aims to find useful answers and insights in data by combining mathematical, scientifically robust approaches with computer programming techniques.
+  - term: Data Mining
+    definition: Data mining is the computing process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
+  - term: Deep Learning
+    definition: Deep Learning involves feeding a computer system a lot of data, which it can use to make decisions (Forbes). A subset of machine learning in Artificial Intelligence (AI), Deep Learning develops networks which are capable of learning unsupervised from data that is unstructured or unlabeled. Also known as Deep Neural Learning or Deep Neural Network (Investopedia).
+E:
+  - term: ETL (Extract, Transform and Load)
+    definition: A process in database and data warehousing meaning extracting the data from outside sources, transforming it to fit operational needs, and loading it into a database.
+F:
+  - term: Formats
+    definition: How data is structured and stored.
+G:
+  - term: GIS
+    definition: A geographic information system (GIS) is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data.
+  - term: Governance
+    definition: The processes, policies and tools that ensure data is formally managed, so that an organisation meets policy, legal, statutory, requirements, and so data can serve the mission and goals of an organisation.
+H:
+  - term: Hadoop
+    definition: An open-source software framework used for storage and processing of (typically) large datasets.
+I:
+  - term: IOT - Internet of Things
+    definition: The connection of ordinary, everyday devices to the internet. Connection of everyday physical objects and products to the Internet so that they can relate to other systems or their data can be used and analysed.
+L:
+  - term: Linked Data
+    definition: A method of publishing structured data so that it can be interlinked and become more useful.
+  - term: Licensing
+    definition: Data licensing is what tells someone what they can and can’t legally do with a piece of data or software.
+M:
+  - term: Metadata
+    definition: A set of data that describes and gives information about what other data is about.
+  - term: Machine Learning
+    definition: A subfield of artificial intelligence that gives computers the ability to learn without being explicitly programmed.
+  - term: Model
+    definition: An abstract construct that organizes elements of data and standardizes how they relate to one another and to properties of real world entities.
+N:
+  - term: Natural Language Processing
+    definition: Natural language processing (NLP) is a field of computer science, artificial intelligence, and computational linguistics concerned with using computers to make sense of human language.
+O:
+  - term: Open Data
+    definition: Data that anyone can access, use and share, for any purpose, without cost.
+  - term: Open Source
+    definition: Software for which the original source code or information is made freely available and may be redistributed and modified in various ways depending on its licence.
+P:
+  - term: Predictive Analytics
+    definition: Using data to predict what will happen next - for example what someone is likely to buy or visit, or how something will behave.
+  - term: Data Platform
+    definition: A place where data is published for use by others.
+  - term: Python
+    definition: Python is a widely used high-level programming language for general-purpose programming
+R:
+  - term: R
+    definition: R is an open source programming language and software environment for statistical computing.
+  - term: RDF
+    definition: A data format: RDF is a framework for describing resources on the web. RDF is designed to be read and understood by computers.
+S:
+  - term: Sentiment Analysis
+    definition: Using data and algorithms against unstructured text, to provide insights into what people are thinking and feeling.
+  - term: Software-as-a-Service (SAAS)
+    definition: A software tool that you access from your browser rather than one that is downloaded and installed onto your device.
+  - term: Spark
+    definition: Apache Spark is a “fast and general engine for large-scale data processing” (Apache). It was built for speed, ease of use, and analytics.
+  - term: Structured data
+    definition: Data that is identifiable and easy to use, as it is pre-organized in structure like rows and columns.
+T:
+  - term: Transactional data
+    definition: A very common kind of data which describes events such as payments, events in a system, or appointments, often held in a large database or data warehouse.
+U:
+  - term: Unstructured data
+    definition: Unstructured data is data that is in general text heavy, but may also contain dates, numbers and facts.
+V:
+  - term: Visualization
+    definition: Representing data, or relationships between data, in a visual manner so as to communicate a finding, relationship or story.
+  - term: Velocity
+    definition: The speed at which the data is created, stored, analysed and visualized.
+X:
+  - term: XML
+    definition: XML stands for Extensible Markup Language (XML).
