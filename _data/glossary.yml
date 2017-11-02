@@ -1,0 +1,25 @@
+# Glossary
+A:
+ - term: Algorithm
+   definition: A process or set of rules to carry out a particular task, for example data analysis algorithms. Often expressed in computer code.
+ - term: Analytics
+   definition: The discovery, interpretation and communication of meaningful patterns and insights in data.
+ - term: Anonymisation
+   definition: The process of removing detail from or otherwise transforming data, to avoid any identification of individuals or organisations.
+ - term: Artificial Intelligence (AI)
+   definition: “Intelligent behaviour” exhibited by machines, for example learning and problem solving.
+B:
+ - term: Big Data
+   definition: Any form of data that due to its size, velocity (rate of change) or complexity pushes the limits of current storage and analytical capability.
+C:
+ - term: Cleaning
+   definition: The task of preparing data so that it can be used for a specific purpose, whether that’s analysis or sharing with others.
+ - term: Clojure
+   definition: A general purpose programming language used to work on data projects.
+ - term: Cloud storage
+   definition: Storing data on machines accessed remotely over an internet connection, as opposed to on a machine or server housed in your own building.
+ - term: CSV
+   definition: A CSV file is a Comma Separated Values file which allows data to be saved in a table structured format. CSVs look similar to a normal spreadsheet, but are reliably usable in more contexts.
+D:
+  - term: Data
+    definition: “A set of values of qualitative or quantitative variables.” (wikipedia). Information in raw form (such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects.  In the context of computing data can be thought of as information that is transmitted or stored.

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+    <body>
+        {% include header.html nav=site.data.nav %}
+
+        <section class="wrap">
+            <div class="columns content">
+                <div class="columns-col100">
+                    <h1>{{ page.title }}</h1>
+                    {{ content }}
+                    <!--HubSpot Call-to-Action Code -->
+                    <span class="hs-cta-wrapper" id="hs-cta-wrapper-0e3fe416-9c3d-485f-bcd5-0140354d729b"><span class="hs-cta-node hs-cta-0e3fe416-9c3d-485f-bcd5-0140354d729b" id="hs-cta-0e3fe416-9c3d-485f-bcd5-0140354d729b"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/3461032/0e3fe416-9c3d-485f-bcd5-0140354d729b"  target="_blank" ><img class="hs-cta-img" id="hs-cta-img-0e3fe416-9c3d-485f-bcd5-0140354d729b" style="border-width:0px;" height="244" width="628" src="https://no-cache.hubspot.com/cta/default/3461032/0e3fe416-9c3d-485f-bcd5-0140354d729b.png"  alt="Download a free A-Z of data terms"/></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(3461032, '0e3fe416-9c3d-485f-bcd5-0140354d729b', {}); </script></span>
+                    <!-- end HubSpot Call-to-Action Code -->
+
+                </div>
+            </div>
+        </section>
+
+        <section class="wrap">
+            <div class="columns">
+                <div class="columns-col100">
+                    <hr/>
+                    <ul class="grid" id="gl-finder">
+                        {% for glossary_hash in site.data.glossary %}
+                        {% assign letter = glossary_hash[0] %}
+                        <a href="#gl-{{ letter }}">{{ letter }}</a>
+                        {% endfor %}
+                    </ul>
+                    <hr/>
+                </div>
+            </div>
+        </section>
+
+        <section class="wrap">
+            <div class="columns content">
+                <div class="columns-col100">
+                    <ul class="grid">
+                        {% for glossary_hash in site.data.glossary %}
+                        {% assign letter = glossary_hash[0] %}
+                        {% assign definitions = glossary_hash[1] %}
+                        <div id="gl-{{ letter }}">
+                            {% for definition_hash in definitions %}
+                            <div class="gl-definition">
+                                <h3>{{ definition_hash.term }}</h3>
+                                <div>{{ definition_hash.definition }}</div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="wrap">
+            <div class="columns content">
+                <div class="columns-col100">
+                    <ul class="grid">
+                        <span>Content made available under the Creative Commons CC BY-NC 4.0 licence.
+                            Find full licence details <a href="https://creativecommons.org/licenses/by-nc/4.0/">here</a>.</span>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        {% include footer.html %}
+        {% include analytics.html %}
+        <!-- Start of HubSpot Embed Code -->
+        <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3461032.js"></script>
+        <!-- End of HubSpot Embed Code -->
+    </body>
+</html>
